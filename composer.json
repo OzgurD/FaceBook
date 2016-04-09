@@ -1,0 +1,23 @@
+{
+	"name": "ozgurD/facebook",
+	"description": "Facebook strategy for OzgurD",
+	"keywords": ["authentication","auth","facebook"],
+	"homepage": "http://www.whitehatz.org",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "OzgurD",
+			"email": "lucello@gmx.de",
+			"homepage": "http://www.whitehatz.org"
+		}
+	],
+	"require": {
+		"php": ">=5.2.0",
+		"ozgurd/ozgurd": ">=0.2.0"
+	},
+	"autoload": {
+		"psr-0": {
+			"": "."
+		}
+	}
+}
